@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    background: pink
+}
+
+    ul{
+list-style: none;
+margin: 0px;
+padding: 0px;
+display: flex;
+height:inherit ;
+
+    }
+
+
+
+.header{
+    background:rgb(246, 158, 173) ;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+    .header li{
+        height: inherit;
+    }
+
+    .header a {
+        color: white;
+        text-decoration: nome;
+        height:inherit ;
+        display: flex;
+        align-items: center;
+        padding: 0px 10px;
+
+    }
+    .logo img{
+        width: 100px;
+    }
+.menu{
+    height: inherit;
+}
+
+}
+.prinsipal{
+    text-align: center;
+    background:rgb(229, 157, 181);
+    padding: 100px;
+margin: 20px;
+}
+
+.segunda{
+    text-align: right;
+    background: rgb(224, 124, 179);
+    padding: 200px 50px;
+    margin: 50px 100px;
+}
+.tercera{
+text-align: left;
+  background: rgb(241, 154, 218);
+  padding: 50px;
+  
+}
